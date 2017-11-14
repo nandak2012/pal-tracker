@@ -3,5 +3,3 @@ applications:
 - name: pal-tracker
   path: build/libs/pal-tracker.jar
   host: nan-pal-tracker-production
-  env:
-    WELCOME_MESSAGE: Hello from Cloud Foundry
